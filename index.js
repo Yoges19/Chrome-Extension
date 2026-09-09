@@ -6,6 +6,7 @@ const deleteBtn = document.getElementById("delete-btn")
 const tabBtn = document.getElementById("tab-btn")
 const leadsFromLocalStorage = JSON.parse(localStorage.getItem("myLeads"))
 
+//After refershing the page our leads should be persistance so we can get that from localstorage and store it on myLeads and then render it
 if(leadsFromLocalStorage){
     myLeads = leadsFromLocalStorage
     render(myLeads)
