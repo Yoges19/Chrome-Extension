@@ -15,6 +15,11 @@ Head over to https://vitejs.dev/ to learn more about configuring vite
 I learned how to get current tab url using chrome extension api and how to use it to get the current tab url and store it on local storage. I also learned about localstorage and how to get and set data in local storage. Then i've explore 
 json methods.
 
+## Project
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/3c7bce11-44c8-4d5a-92b3-f32679017be2" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/f95a25d4-2abf-4fa4-98a8-b64a6ba194df" />
+
 -----------------------------------------
 ## About Scrimba
 
